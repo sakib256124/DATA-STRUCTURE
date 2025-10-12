@@ -17,7 +17,7 @@ for(int i : vec)
 
 
 
-
+cout<<"Vector learning"<<endl;
 cout<<"first value print"<<vec.front()<<endl;
 cout<<"last value print"<<vec.back()<<endl;
 cout<<" any number any location"<<vec.at(3);
